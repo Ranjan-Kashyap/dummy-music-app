@@ -2,7 +2,7 @@
     • Have an Android emulator running (quickest way to get started), or a device connected.
     • cd "/trackingCodingChallenge/skoovesCodingChallenge" && npx react-native run-android
 
-  Run instructions for iOS:
+  Run instructions for iOS: this can run only macbook
     • cd "trackingCodingChallenge/skoovesCodingChallenge" && npx react-native run-ios
     - or -
     • Open skoovesCodingChallenge/ios/skoovesCodingChallenge.xcworkspace in Xcode or run "xed -b ios"
